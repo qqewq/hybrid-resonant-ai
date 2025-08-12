@@ -1,71 +1,31 @@
-# 🔬 Hybrid Resonant AI Framework
+# Hybrid Resonant AI — Репозиторий (Концептуальный / Исследовательский Архив)
 
-A cutting-edge AI architecture that fuses the power of Transformer-based language models (like GPT) with goal-driven resonance analysis, RL and GAN-based evolution, and dynamic constraint manipulation.
+**ВНИМАНИЕ / ВАЖНО**  
+Этот репозиторий — *концептуальный и исследовательский архив*, посвящённый теоретическим идеям, симуляциям и практикам безопасного подхода к исследованиям высокоразвитых ИИ.  
+Он **не** содержит инструкций, инструментов или пошагового кода, который позволил бы создать или развернуть автономную сверхинтеллектуальную систему (ASI).  
+Содержание намеренно высокоуровневое и ориентировано на безопасность, этику, воспроизводимость и ответственное раскрытие.
 
-> Designed to search for "impossible" hypotheses and strategies that can transcend known physical limits — and make them discoverable.
+## Цель
+В этом репозитории собрано:
+- Концептуальное описание и академические заметки о «гибридно-резонансном» подходе (теория).
+- Безопасные демонстрационные скрипты для наглядных симуляций (только игрушечные модели).
+- Политики и шаблоны ответственного open-source релиза, контрибуций и раскрытия уязвимостей.
+- Дорожная карта и рекомендации по управлению/этике для любых исследований в области передового ИИ.
 
----
+## Репозиторий на GitHub
+[🔗 https://github.com/qqewq/hybrid-resonant-ai](https://github.com/qqewq/hybrid-resonant-ai)
 
-## 🧠 Key Components
+## Быстрые ссылки
+- `docs/` — проектные заметки, дорожная карта, руководство по этике.
+- `examples/` — небольшие безопасные демонстрации.
+- `src/` — заготовки компонентов (без производственного кода).
+- `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` — правила проекта.
 
-- **🎯 Goal-Driven Intelligence** – All processes start from a user-defined goal (`G`).
-- **🧠 GPT-style Hypothesis Generator** – Generates contextual hypotheses and strategies.
-- **📊 Resonant Evaluator** – Assesses each hypothesis by its influence on the target, using gradient and resonance-based scoring.
-- **♻️ RL + GAN Evolution Module** – Evolves promising ideas iteratively based on feedback.
-- **⚙️ Dynamic Constraints Engine** – Allows modifying "laws of nature" inside the hypothesis space (e.g. time, light speed, entropy).
+## Лицензия и использование
+См. `LICENSE`. Используя или форкая этот репозиторий, вы соглашаетесь соблюдать правила ответственного релиза и исследований, описанные в `docs/ETHICS.md` и `SECURITY.md`.
 
----
-
-## 🧪 Demo Example
-
-```bash
-python example.py --goal "Extend human life expectancy to 150 years"
-```
-
-Or use the included Jupyter notebook in `examples/`:
-- `g150_life_extension.ipynb`
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-resonant-ai.git
-cd hybrid-resonant-ai
-pip install -r requirements.txt
-```
+## Как использовать
+Этот архив предназначен **только** для исследований и документации. Его можно безопасно публиковать, обсуждать и использовать для организации процессов в сообществе.  
+Не используйте и не адаптируйте элементы репозитория для создания или развертывания мощных автономных систем без формального институционального надзора, внешних аудитов и соблюдения законодательства.
 
 ---
-
-## 📂 Project Structure
-
-```
-src/
-├── generator/         # Hypothesis generation (Transformer-style)
-├── evaluator/         # Resonance & gradient analysis
-├── rl_gan/            # Reinforcement + GAN refinement
-├── utils/             # Shared utilities
-
-examples/              # Jupyter notebooks and CLI examples
-docs/                  # Architecture diagrams & explanations
-```
-
----
-
-## 📜 License
-
-MIT License — free for personal, research, or commercial use.
-
----
-
-## 🚀 Roadmap
-
-- [ ] Transformer finetuning hooks
-- [ ] Real-time RL adaptation
-- [ ] Open science hypothesis explorer (frontend)
-
----
-
-## 🌌 Vision
-
-This framework aims to become a **meta-thinking engine** — not just a predictive AI, but a system capable of *inventing theoretical realities* and finding real-world strategies to reach them.
