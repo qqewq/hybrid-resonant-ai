@@ -1,31 +1,31 @@
-# Hybrid Resonant AI — Репозиторий (Концептуальный / Исследовательский Архив)
+# Hybrid Resonant AI — Repository (Conceptual / Research Archive)
 
-**ВНИМАНИЕ / ВАЖНО**  
-Этот репозиторий — *концептуальный и исследовательский архив*, посвящённый теоретическим идеям, симуляциям и практикам безопасного подхода к исследованиям высокоразвитых ИИ.  
-Он **не** содержит инструкций, инструментов или пошагового кода, который позволил бы создать или развернуть автономную сверхинтеллектуальную систему (ASI).  
-Содержание намеренно высокоуровневое и ориентировано на безопасность, этику, воспроизводимость и ответственное раскрытие.
+**WARNING / IMPORTANT**  
+This repository is a *conceptual and research-focused* archive about theoretical ideas, simulations, and safety practices related to high-capability AI research.  
+It **does not** contain instructions, tooling, or step-by-step code that would enable the build or deployment of an autonomous superintelligent system (ASI).  
+The content is deliberately high-level and oriented toward safety, ethics, reproducibility, and responsible disclosure.
 
-## Цель
-В этом репозитории собрано:
-- Концептуальное описание и академические заметки о «гибридно-резонансном» подходе (теория).
-- Безопасные демонстрационные скрипты для наглядных симуляций (только игрушечные модели).
-- Политики и шаблоны ответственного open-source релиза, контрибуций и раскрытия уязвимостей.
-- Дорожная карта и рекомендации по управлению/этике для любых исследований в области передового ИИ.
+## Purpose
+This repository collects:
+- Conceptual descriptions and academic-style notes on the "hybrid resonant" approach (theoretical).
+- Safe, small-scale demonstration code for non-deployable simulations (toy models for visualization only).
+- Policies and templates for responsible open-source release, contribution, and vulnerability disclosure.
+- A roadmap and suggested governance/ethics checkpoints for any advanced AI research.
 
-## Репозиторий на GitHub
+## GitHub Repository
 [🔗 https://github.com/qqewq/hybrid-resonant-ai](https://github.com/qqewq/hybrid-resonant-ai)
 
-## Быстрые ссылки
-- `docs/` — проектные заметки, дорожная карта, руководство по этике.
-- `examples/` — небольшие безопасные демонстрации.
-- `src/` — заготовки компонентов (без производственного кода).
-- `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` — правила проекта.
+## Quick links
+- `docs/` — design notes, roadmap, ethics guidance.
+- `examples/` — small, safe demo scripts (non-deployable).
+- `src/` — placeholders for components (no production code).
+- `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md` — project governance.
 
-## Лицензия и использование
-См. `LICENSE`. Используя или форкая этот репозиторий, вы соглашаетесь соблюдать правила ответственного релиза и исследований, описанные в `docs/ETHICS.md` и `SECURITY.md`.
+## License & Usage
+See `LICENSE`. By using or forking this repository you agree to follow the responsible release and research guidelines described in `docs/ETHICS.md` and `SECURITY.md`.
 
-## Как использовать
-Этот архив предназначен **только** для исследований и документации. Его можно безопасно публиковать, обсуждать и использовать для организации процессов в сообществе.  
-Не используйте и не адаптируйте элементы репозитория для создания или развертывания мощных автономных систем без формального институционального надзора, внешних аудитов и соблюдения законодательства.
+## How to use
+This archive is intended as a **research and documentation** starting point only. It is safe to publish, discuss, and build community processes around.  
+Do **not** use or adapt any element of this repository to attempt to create or deploy powerful autonomous systems without formal institutional oversight, external audits, and compliance with applicable law.
 
 ---
